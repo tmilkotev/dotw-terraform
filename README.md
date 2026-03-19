@@ -32,8 +32,8 @@ Out of scope:
 
 ## Architecture
 
-\<details>
-\<summary>\<strong>AWS Architecture (click to expand)</strong></summary>
+<details>
+<summary><strong>AWS Architecture (click to expand)</strong></summary>
 
 ```text
                     dotw-terraform (AWS lab)
