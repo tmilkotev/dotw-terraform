@@ -1,0 +1,5 @@
+aws_profile        = "dotw-management"
+aws_region         = "eu-central-1"
+budget_name        = "dotw-management-budget"
+budget_limit_amount = "5"
+notification_email = "your-email@example.com"

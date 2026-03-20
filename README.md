@@ -32,6 +32,7 @@ Out of scope:
 
 ## Architecture
 
+<!-- markdownlint-disable MD033 -->
 <details>
 <summary><strong>AWS Architecture (click to expand)</strong></summary>
 
@@ -60,6 +61,7 @@ Governance          VPC peering         S3                     AWS Config
 ```
 
 </details>
+<!-- markdownlint-enable MD033 -->
 
 The lab environment is organized into multiple AWS accounts.
 
